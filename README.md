@@ -2,7 +2,7 @@
 
 This Project is to classify the Image of Cat using Deep Learning in depth of Logistic Regression by <b>Nithish_Raja</b>
 
-<b> Mathematically Implemented !!! </b>
+<b> Mathematical Implementation !!! </b>
 
 * Build a logistic regression classifier to recognize  cats. This Project will step you through how to do this with a Neural Network mindset, and so will also hone your intuitions about deep learning.
 
